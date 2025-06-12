@@ -2,3 +2,4 @@ make this a full stack app and build out
 a few rounds!
 
 maybe add a feature to create a user and login area?
+some authentication?
